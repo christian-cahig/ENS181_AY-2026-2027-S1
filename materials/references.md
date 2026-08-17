@@ -14,7 +14,7 @@ by Erwin Kreyszig,
 11th edition
 (International Adaptation)
 
-**AEM5**:
+**AEM05**:
 Advanced Engineering Mathematics
 by Dennis G. Zill and Warren S. Wright,
 5th edition
