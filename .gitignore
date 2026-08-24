@@ -11,5 +11,6 @@ syllabus/
 
 materials/references/
 materials/**/_*.ipynb
+materials/**/_*
 materials/**/_*.*
 materials/**/*-contrib*/
