@@ -1,24 +1,31 @@
 # Lessons
 
-*Last updated 17 August 2026*
+*Last updated 26 August 2026*
 
-## Module 1. Introduction to differential equations (DEs)
+## Module 1. Introduction to ordinary differential equations (ODEs)
 
-- Modelling
-- Ordinary DEs (ODEs) and partial DEs (PDEs)
-- Order and degree
-- Explicit and implicit forms
-- Initial value problems
-- Solutions
-- ODE classifications
-  (linear vs. nonlinear, homogeneous vs non-homogeneous)
+1. ODEs vs PDEs
+2. Order and degree
+3. Forms
+  (general, normal, explicit, implicit, differential)
+4. ODE classifications
+   (linear vs. nonlinear,
+   homogeneous vs. non-homogeneous)
+5. Solutions of DEs
 
 References:
 
 - AEM10i: Sections 1.1, 1.5, 2.1
 - AEM11i: Sections 1.1, 1.5, 2.1
-- AEM05: Sections 1.1, 1.2, 2.3
+- AEM05: Sections 1.1, 3.1.2
 - PONDE: Section 1.1
+
+### Readings
+
+1. Initial- and boundary-value problems
+   - AEM05, Section 3.1.1
+2. DEs as mathematical models
+   - AEM05, Section 1.3
 
 ## Module 2. First-order ODEs
 
