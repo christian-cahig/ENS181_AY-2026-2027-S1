@@ -5,7 +5,7 @@
 ## AEM10i, Problem Set 1.3
 
 **Item 7.**
-$-u \cot\left(u\right) + \ln|\sin\left(u\right)| = \frac{2}{3} x^{3} + C$
+$-3 u \cot\left(u\right) + 3 \ln|\sin\left(u\right)| = 2 x^{3} + C$
 
 **Item 8.**
 $y = 2 \tan\left(2x + C\right) - 4x$
@@ -22,10 +22,22 @@ $xy = 24$
 **Item 12.**
 $2y = \tan\left(2x - 2\right)$
 
+**Item 14.**
+$r = r_{0} e^{-t^{2}}$
+
+**Item 15.**
+$4x^{2} + y^{2} = 25$
+
+**Item 16.**
+$x + y = 2 + \tan \left(x\right)$
+
+**Item 17.**
+$\tanh \left(y / x\right) = x^{3} + 1$
+
 ## AEM11i, Problem Set 1.3
 
 **Item 7.**
-$u \tan\left(u\right) + \ln|\cos\left(u\right)| = \frac{2}{3} x^{3} + C$
+$3 u \tan\left(u\right) + 2 \ln|\cos\left(u\right)| = 2 x^{3} + C$
 
 **Item 9.**
 $\left(x + C\right)y - x = 0$
