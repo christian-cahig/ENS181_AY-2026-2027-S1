@@ -50,3 +50,21 @@ $4y = \tan\left(0.25x - 0.50\right)$
 
 **Item 13.**
 $3 \tanh\left(x\right) + \cot\left(y\right) - 1 = 0$
+
+**Item 19.**
+The bacterial count
+quadruples after 2 weeks,
+and
+increases sixteenfold after 4 weeks.
+
+**Item 22.**
+Accelerated at 9 million m/s²,
+the particle covered 1009 m.
+
+**Item 23.**
+The Boyle-Mariotte model is that
+$V$ is inversely proportional to $p$.
+
+**Item 24.**
+At the end of an hour,
+there will be about 74.08182206817179 lb of salt in the tank.
