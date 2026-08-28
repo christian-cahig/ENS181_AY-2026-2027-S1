@@ -68,3 +68,25 @@ $V$ is inversely proportional to $p$.
 **Item 24.**
 At the end of an hour,
 there will be about 74.08182206817179 lb of salt in the tank.
+
+**Item 25.**
+The thermometer reading will reach 21.9 °C
+after about 9.678712783893094 minutes.
+
+**Item 26.**
+$\ln y \left(t\right) = C e^{-At}$
+
+**Item 27.**
+The wet sheet will have lost 99% of its moisture
+in about 66.43856189774725 minutes
+(or about 1.1073093649624541 hours).
+
+**Item 30.**
+The rocket will have gone about 1166.7 meters.
+
+**Item 32.**
+At the end of the slide,
+the body has a velocity of about 17.1497938 m/s.
+
+**Item 33.**
+About 7.329355989 times
