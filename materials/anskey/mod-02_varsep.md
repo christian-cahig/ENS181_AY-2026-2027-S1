@@ -90,3 +90,20 @@ the body has a velocity of about 17.1497938 m/s.
 
 **Item 33.**
 About 7.329355989 times
+
+## AEM05, Exercises 2.2
+
+**Item 28.**
+$\arctan \left(2y\right) + \arctan(x^{2}) = 0.25 \pi$
+
+**Item 41(a).**
+$\left(2x + 1\right)^{2} - 4 y^{2} = 5$
+
+**Item 42(a).**
+$2 e^{3x} + 3 e^{-2y} = 16$
+
+**Item 47.**
+The given condition translates to
+$y^{2} + \left(y^{\prime}\right)^{2} = 1$,
+whose solution is
+$y = \sin \left(x + C\right)$.
