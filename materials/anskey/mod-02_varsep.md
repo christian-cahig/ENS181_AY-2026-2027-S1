@@ -1,6 +1,6 @@
 # Answers to select problems on variable-separable first-order ODEs
 
-*Last updated 26 August 2026*
+*Last updated 31 August 2026*
 
 ## AEM10i, Problem Set 1.3
 
@@ -92,6 +92,36 @@ the body has a velocity of about 17.1497938 m/s.
 About 7.329355989 times
 
 ## AEM05, Exercises 2.2
+
+**Item 2.**
+$x^{3} + x^{2} + x - 3y = C$
+
+**Item 6.**
+$x^{2} y = C$
+
+**Item 8.**
+$3 \left(y - 1\right) e^{y} + \left(3 + e^{-2x}\right) e^{-x} = C$
+
+**Item 12.**
+$\tan^{2} \left(3x\right) + 6 y^{2} = C$
+
+**Item 14.**
+$\sqrt{1 + x^{2}} - \sqrt{1 + y^{2}} = C$
+
+**Item 16.**
+$Q\left(t\right) = 70 + C e^{-kt}$
+
+**Item 20.**
+$x - y + 2 \ln|x - 3| - 2 \ln|y - 1| = C$
+
+**Item 22.**
+$\left(C + \arctan e^{x}\right) y + 1 = 0$
+
+**Item 24.**
+$\left(x + 1\right) \left(y - 1\right) = \left(x - 1\right) \left(y + 1\right)$
+
+**Item 26.**
+$2y = 1 + 4 e^{-2t}$
 
 **Item 28.**
 $\arctan \left(2y\right) + \arctan(x^{2}) = 0.25 \pi$
