@@ -1,6 +1,6 @@
 # Lessons
 
-*Last updated 26 August 2026*
+*Last updated 07 September 2026*
 
 ## Module 1. Introduction to ordinary differential equations (ODEs)
 
@@ -26,6 +26,8 @@ References:
    - AEM05, Section 3.1.1
 2. DEs as mathematical models
    - AEM05, Section 1.3
+3. Elimination of arbitrary constants
+   - https://mathalino.com/reviewer/elementary-differential-equations/ekimination-arbitrary-constants
 
 ## Module 2. First-order ODEs
 
@@ -45,9 +47,10 @@ References:
 
 1. Growth and decay
 2. Newtonian heating and cooling
-3. Mixture of non-reacting fluids
-4. First-order electric circuits
-5. Population dynamics
+3. Torricelli's law
+4. Mixture of non-reacting fluids
+5. First-order electric circuits
+6. Population dynamics
 
 References:
 
