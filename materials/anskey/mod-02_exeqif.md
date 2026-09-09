@@ -1,6 +1,6 @@
 # Answers to select problems on exact first-order ODEs
 
-*Last updated 08 September 2026*
+*Last updated 09 September 2026*
 
 ## AEM10i, Problem Set 1.4
 
@@ -10,7 +10,6 @@ Laks lang part
 
 **Item 1.**
 $\mu = x^{-5}$;
-solution:
 $x^{-3}y = C$
 
 **Item 2.**
@@ -24,7 +23,6 @@ $r e^{4\theta} = C$
 
 **Item 5.**
 $\mu = x^{-\frac{5}{3}}$;
-solution:
 $x^{\frac{4}{3}} - 2 x^{-\frac{2}{3}} y^{2} = C$
 
 **Item 6.**
