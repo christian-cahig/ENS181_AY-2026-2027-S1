@@ -1,6 +1,6 @@
 # Lessons
 
-*Last updated 07 September 2026*
+*Last updated 20 September 2026*
 
 ## Module 1. Introduction to ordinary differential equations (ODEs)
 
@@ -59,13 +59,27 @@ References:
 - AEM05: Sections 1.3, 2.7, 2.8, 2.9
 - PONDE: Sections 2.7, 2.8
 
-## Module 4. Second-order homogeneous ODEs
+## Module 4. Higher-order homogeneous ODEs
 
-Stay tuned.
+1. Principle of superposition
+2. Linear independence of a set of functions
+3. Solutions of homogeneous equations
+4. Solutions when one basis is known: reduction of order
+5. Solutions of homogeneous equations with constant coefficients
+6. Euler-Cauchy equations
+7. Applications
+   - Undamped and damped mass-spring systems
+   - Second-order RLC electric circuits
 
-## Module 5. Second-order non-homogeneous ODEs
+## Module 5. Higher-order non-homogeneous ODEs
 
-Stay tuned.
+1. Form of the general solution
+2. Solution by method of undetermined coefficients
+3. Solution by variation of parameters
+4. Applications
+   - Undamped and damped mass-spring systems
+   - Resonance of mass-spring systems
+   - Second-order RLC electric circuits
 
 ## Module 6. Laplace transform of functions
 
