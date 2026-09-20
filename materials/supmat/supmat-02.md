@@ -11,7 +11,7 @@ Some variations to consider:
 - Multiple resistors, one capacitor
 - Multiple resistors, one inductor
 
-## Torricelli's theorem
+## Torricelli's law
 
 - https://youtu.be/f-i0QdRoEwc
 - https://youtu.be/SfXm22iQD2Y
