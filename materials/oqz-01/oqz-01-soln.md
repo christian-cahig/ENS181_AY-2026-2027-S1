@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Answers to Quiz 01
+# Solutions to Quiz 01
 
 *Last updated 21 September 2026*
 
