@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # Solutions to Quiz 01
 
-*Last updated 21 September 2026*
+*Last updated 24 September 2026*
 
 - [Item 01](#item-01)
 - [Item 02](#item-02)
@@ -159,11 +159,10 @@ linear.
 ## Item 16
 
 The ODE can be rewritten as:
-$$\frac{d\eta}{d\xi} = \eta^{2} + \xi^{2} + 1$$
+$$\frac{d\eta}{d\xi} = \eta + \xi^{2} + 1$$
 
 Therefore, the ODE is
-non-separable, non-homogeneous, not exact, and nonlinear.
-This is a Riccati equation.
+non-separable, non-homogeneous, not exact, and linear.
 
 ## Item 17
 
