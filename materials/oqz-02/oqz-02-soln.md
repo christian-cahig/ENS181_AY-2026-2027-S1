@@ -1,6 +1,8 @@
 <!-- omit in toc -->
 # Solutions to Quiz 02
 
+*Last updated 25 September 2026*
+
 - [Scenario 01](#scenario-01)
 - [Scenario 02](#scenario-02)
 - [Scenario 03](#scenario-03)
@@ -70,7 +72,7 @@ $s$- and $\dot{s}$values at one $t$-value).
 ## Scenario 06
 
 The differential equation modelling the time rate of change is
-$$\dot{w} = 2w = tw^{5}$$
+$$\dot{w} = 2w + tw^{5}$$
 which is a Bernoulli equation
 and thus nonlinear in $w$.
 This can be reduced to a linear equation by the substitution
