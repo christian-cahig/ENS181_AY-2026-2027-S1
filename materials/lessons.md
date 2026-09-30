@@ -1,6 +1,6 @@
 # Lessons
 
-*Last updated 20 September 2026*
+*Last updated 30 September 2026*
 
 ## Module 1. Introduction to ordinary differential equations (ODEs)
 
@@ -10,14 +10,16 @@
   (general, normal, explicit, implicit, differential)
 4. ODE classifications
    (linear vs. nonlinear,
-   homogeneous vs. non-homogeneous)
+   homogeneous vs. non-homogeneous,
+   autonomous vs. non-autonomous)
 5. Solutions of DEs
+6. Elimination of arbitrary constants
 
 References:
 
 - AEM10i: Sections 1.1, 1.5, 2.1
 - AEM11i: Sections 1.1, 1.5, 2.1
-- AEM05: Sections 1.1, 3.1.2
+- AEM05: Sections 1.1, 2.1, 3.1.2
 - PONDE: Section 1.1
 
 ### Readings
