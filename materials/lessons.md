@@ -87,6 +87,6 @@ References:
 - AEM11i: Sections 3.1 - 3.3
 - AEM05: Sections 3.1 - 3.6, 3.8, 3.9
 
-## Module 6. Laplace transform of functions
+## Module 5. Laplace transform of functions
 
 Stay tuned.
