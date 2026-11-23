@@ -87,6 +87,34 @@ References:
 - AEM11i: Sections 3.1 - 3.3
 - AEM05: Sections 3.1 - 3.6, 3.8, 3.9
 
-## Module 5. Laplace transform of functions
+## Module 5. Laplace transform and inverse Laplace transform
 
-Stay tuned.
+1. Fundamentals
+   - Definition
+   - Sufficient conditions for existence
+2. Transform
+   - Elementary functions
+   - Linearity
+   - Piecewise-continuous functions
+   - Differentiation of functions
+   - Integration of functions
+3. Inverse transform
+   - Elementary functions
+   - Linearity
+4. Translation theorems
+   - $s$-shifting
+   - $t$-shifting
+     - Heaviside (unit step) function
+     - Piecewise functions
+5. Other properties
+   - Differentiation of transforms
+   - Integration of transforms
+   - Convolution theorem
+   - Transform of integrals
+   - Dirac delta (unit impulse) function
+
+References:
+
+- AEM10i: Sections 6.1 - 6.6
+- AEM11i: Sections 6.1 - 6.6
+- AEM05: Sections 4.1 - 4.5
